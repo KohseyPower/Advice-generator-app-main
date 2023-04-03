@@ -1,1 +1,0 @@
-I just wanted to know how to interact with an API trough Javascript.
